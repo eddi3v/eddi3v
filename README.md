@@ -10,17 +10,11 @@
 
 ### Connect with me:
 
-[![website](./img/youtube-light.svg)](https://www.youtube.com/channel/UCtqWXAox2vyQESK2UiCDXzg#gh-light-mode-only)
-[![website](./img/youtube-dark.svg)](https://www.youtube.com/channel/UCtqWXAox2vyQESK2UiCDXzg#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/twitter-light.svg)](https://twitter.com/greenb1ade#gh-light-mode-only)
-[![website](./img/twitter-dark.svg)](https://twitter.com/greenb1ade#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/eduard-vaduva-021810184/#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/eduard-vaduva-021810184/#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://www.instagram.com/greenb1ade#gh-light-mode-only)
-[![website](./img/instagram-dark.svg)](https://www.instagram.com/greenb1ade#gh-dark-mode-only)
+[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 ### Languages and Tools:
 
@@ -55,7 +49,6 @@
 
 </details>
 
-[website]: https://codeSTACKr.com
 [twitter]: https://twitter.com/greenb1ade
 [youtube]: https://www.youtube.com/channel/UCtqWXAox2vyQESK2UiCDXzg
 [instagram]: https://www.instagram.com/greenb1ade
