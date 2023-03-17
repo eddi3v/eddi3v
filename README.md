@@ -1,6 +1,6 @@
 # Hi there, I'm Eduardl - aka [greenb1ade][twitter] 👋 
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr)
+[![Twitter Follow](https://img.shields.io/twitter/follow/greenb1ade?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fgreenb1ade&screen_name=greenb1ade)
 
 ## I'm a Software Developer!!
 
