@@ -10,9 +10,9 @@
 
 ### Connect with me:
 
-[<img align="left" alt="greenb1ade | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="greenb1ade | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="greenb1ade | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="greenb1ade | YouTube" width="22px" src="./img/youtube.png" />][youtube]
+[<img align="left" alt="greenb1ade | Twitter" width="22px" src="./img/twitter.png" />][twitter]
+[<img align="left" alt="greenb1ade | LinkedIn" width="22px" src="./img/linkedin.png" />][linkedin]
 [<img align="left" alt="greenb1ade | Instagram" width="22px" src="./img/instagram.png" />][instagram]
 
 <br />
