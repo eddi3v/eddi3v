@@ -1,6 +1,6 @@
 ## Hi there, I'm Eduard - aka [greenb1ade][twitter] 👋 
 
-## I'm a Software Developer!!
+### I'm a Software Developer!!
 
 - 🌱 I’m currently learning everything
 - 👯 I’m looking to collaborate with other devs
