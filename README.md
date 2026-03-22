@@ -1,4 +1,4 @@
-## Hi there, I'm Eduard - aka [greenb1ade][twitter] 👋 
+## Hi there, I'm Eduard - aka greenb1ade
 
 ### I'm a Software Developer!!
 
